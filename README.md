@@ -54,4 +54,4 @@ This project was built with a modern stack optimized for performance and fluid m
 
 ---
 
-*Designed and Built by Stellar Labs.*
+*Designed and Built by Nitesh Kumar.*
